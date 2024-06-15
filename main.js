@@ -41,6 +41,12 @@ let song_list=[
         singer: "King",
         image : "cover/3.jpg",
         path: "songs/3.mp3",
+    },
+    {
+        name: "Saza",
+        singer: "Liza Mishra",
+        image : "cover/4.jpg",
+        path: "https://ghantalele.com/uploads/files/data-87/43047/Saza%20-%20Lisa%20Mishra_192(Ghantalele.com).mp3",
     }
 ]
 
