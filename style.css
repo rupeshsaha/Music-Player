@@ -1,0 +1,42 @@
+body{
+    background-color: teal;
+}
+
+.player{
+    height:95vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.details{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1.5rem;
+}
+.song-cover{
+    margin:1.5rem;
+    height: 15rem;
+    width: 15rem;
+    background-image: url("cover/1.jpg");
+}
+.buttons{
+    display: flex;
+    gap: 2rem;
+    align-items:center;
+    justify-content: center;
+    margin: 1.25rem;
+}
+.slider-content{
+    width:20rem;
+    display: flex;
+    justify-content: center;
+}
+input[type="range"]{
+    width: 100%;
+}
+input.volume-slider{
+    width:30%
+}
