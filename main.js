@@ -26,7 +26,7 @@ let song_list=[
         name: "O Sajni Re",
         singer: "Arijit Singh",
         image : "cover/1.jpg",
-        path: "https://whyp.it/tracks/185732/aud-20230528-wa0001?token=9Wkcb",
+        path: "songs/1.mp3",
     },
 
     {
