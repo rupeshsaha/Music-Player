@@ -51,7 +51,7 @@ let song_list=[
     {
         name: "O Piya",
         singer: "Prateek Kuhad",
-        image : "cover/4.jpg",
+        image : "cover/8644_2.jpg",
         path: "https://ghantalele.com/uploads/files/data-84/41940/O%20Piya%20-%20Prateek%20Kuhad_320(Ghantalele.com).mp3",
     },
 ]
