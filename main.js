@@ -47,7 +47,13 @@ let song_list=[
         singer: "Liza Mishra",
         image : "cover/4.jpg",
         path: "https://ghantalele.com/uploads/files/data-87/43047/Saza%20-%20Lisa%20Mishra_192(Ghantalele.com).mp3",
-    }
+    },
+    {
+        name: "O Piya",
+        singer: "Prateek Kuhad",
+        image : "cover/4.jpg",
+        path: "https://ghantalele.com/uploads/files/data-84/41940/O%20Piya%20-%20Prateek%20Kuhad_320(Ghantalele.com).mp3",
+    },
 ]
 
 // play next song 
