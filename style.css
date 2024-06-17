@@ -17,6 +17,7 @@ body{
     margin-top: 1.5rem;
 }
 .song-cover{
+    border-radius : 10%;
     margin:1.5rem;
     height: 15rem;
     width: 15rem;
